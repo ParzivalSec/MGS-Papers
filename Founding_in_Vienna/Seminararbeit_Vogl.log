@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.21)  22 NOV 2017 00:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.21)  28 NOV 2017 00:24
 entering extended mode
 **./Seminararbeit_Vogl.tex
 (Seminararbeit_Vogl.tex
@@ -1149,45 +1149,28 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count309
 \c@blind@pangrammax=\count310
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\abstract\abstract.sty"
-Package: abstract 2009/06/08 v1.2a configurable abstracts
-\abstitleskip=\skip79
-\absleftindent=\skip80
-\absrightindent=\skip81
-\absparindent=\skip82
-\absparsep=\skip83
-
-
-! LaTeX Error: Environment abstract undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.104   \renewenvironment{abstract}
-                                   {%
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
 ) (Seminararbeit_Vogl.aux)
 \openout1 = `Seminararbeit_Vogl.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count311
 \scratchdimen=\dimen263
@@ -1219,7 +1202,7 @@ ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 17.
+Package hyperref Info: Link coloring ON on input line 19.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1229,47 +1212,47 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count317
 )
-LaTeX Info: Redefining \ref on input line 17.
-LaTeX Info: Redefining \pageref on input line 17.
-LaTeX Info: Redefining \nameref on input line 17.
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
 
 (Seminararbeit_Vogl.out) (Seminararbeit_Vogl.out)
 \@outlinefile=\write5
 \openout5 = `Seminararbeit_Vogl.out'.
 
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 19.
-LaTeX Font Info:    Try loading font information for U+msa on input line 19.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 21.
+LaTeX Font Info:    Try loading font information for U+msa on input line 21.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 19.
+LaTeX Font Info:    Try loading font information for U+msb on input line 21.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 19.
-<PICs/Arbeiten.jpg, id=114, 845.0772pt x 1195.1049pt>
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 21.
+<PICs/Arbeiten.jpg, id=86, 845.0772pt x 1195.1049pt>
 File: PICs/Arbeiten.jpg Graphic file (type jpg)
 <use PICs/Arbeiten.jpg>
-Package pdftex.def Info: PICs/Arbeiten.jpg  used on input line 19. on input lin
-e 19.
+Package pdftex.def Info: PICs/Arbeiten.jpg  used on input line 21. on input lin
+e 21.
 Package pdftex.def Info: Requested size: 597.50742pt x 845.06563pt on input lin
-e 19.
+e 21.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 21.
  [-9
 
 
@@ -1281,441 +1264,473 @@ rbeiten.jpg>]
 \openout6 = `Seminararbeit_Vogl.toc'.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 21.
  [-8
 
 
 ]
 chapter 1.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 20.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 20.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 20.
+(babel)             in language  on input line 22.
 chapter 2.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 36.
 [1
 
 ]
+<PICs/German_Market.png, id=124, 703.87968pt x 420.82219pt>
+File: PICs/German_Market.png Graphic file (type png)
+<use PICs/German_Market.png>
+Package pdftex.def Info: PICs/German_Market.png  used on input line 46. on inpu
+t line 46.
+Package pdftex.def Info: Requested size: 289.07999pt x 172.82716pt on input lin
+e 46.
+Package acronym Info: Label `acro:USP' newly defined as it shall be overridden
+although it is yet undefined on input line 51.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 56.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 56.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 56.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 56.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 56.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 56.
+ [2 <./PICs/German_Market.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 57.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 57.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 57.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 61.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 61.
+Package acronym Info: Label `acro:OG' newly defined as it shall be overridden
+although it is yet undefined on input line 73.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 39.
- [2]
+(babel)             in language  on input line 78.
+ [3]
+Package acronym Info: Label `acro:KG' newly defined as it shall be overridden
+although it is yet undefined on input line 81.
+Package acronym Info: Label `acro:GmbH' newly defined as it shall be overridden
+
+although it is yet undefined on input line 87.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 92.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 92.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 92.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 41.
+(babel)             in language  on input line 95.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 41.
+(babel)             in language  on input line 95.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 41.
+(babel)             in language  on input line 95.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 95.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 95.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 95.
+ [4]
+<PICs/Steuern.png, id=170, 573.64313pt x 420.06938pt>
+File: PICs/Steuern.png Graphic file (type png)
+<use PICs/Steuern.png>
+Package pdftex.def Info: PICs/Steuern.png  used on input line 98. on input line
+ 98.
+Package pdftex.def Info: Requested size: 289.07999pt x 211.69429pt on input lin
+e 98.
 
 chapter 3.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 44.
+(babel)             in language  on input line 112.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 44.
+(babel)             in language  on input line 112.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 44.
+(babel)             in language  on input line 112.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 114.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 114.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 46.
+(babel)             in language  on input line 114.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 117.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 117.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 117.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 117.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 117.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 48.
-[3]
+(babel)             in language  on input line 117.
+[5 <./PICs/Steuern.png>]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 48.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 50.
+(babel)             in language  on input line 130.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 50.
+(babel)             in language  on input line 130.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 50.
+(babel)             in language  on input line 130.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 52.
+(babel)             in language  on input line 130.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 52.
+(babel)             in language  on input line 130.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 52.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 54.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 54.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 54.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 54.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 54.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 54.
- [4]
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 54.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 54.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 54.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 57.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 57.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 57.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 58.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 58.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 58.
-
-chapter 4.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 61.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 61.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 61.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 62.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 62.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 62.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 64.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 64.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 64.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 64.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 64.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 64.
-[5]
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 64.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 64.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 64.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 66.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 66.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 66.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 68.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 68.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 68.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 70.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 70.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 70.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 70.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 70.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 70.
+(babel)             in language  on input line 130.
  [6]
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 70.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 70.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 70.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 73.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 73.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 73.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 73.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 73.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 73.
- [7]
-chapter without number
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 75.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 75.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 75.
 
-LaTeX Warning: Empty `thebibliography' environment or \BreakBibliography
-               before end of `thebibliography' environment on input line 81.
+LaTeX Warning: Citation `Business_Angles_Def' on page 7 undefined on input line
+ 136.
 
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 147.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 147.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 147.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 151.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 151.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 151.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 151.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 151.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 151.
+[7]
+Package acronym Info: Label `acro:WKO' newly defined as it shall be overridden
+although it is yet undefined on input line 157.
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--81
-\T1/phv/m/n/10.95 WKO Grün-der-ser-vice: htt-ps://www.gruenderservice.at/ Schei
-n:
+Underfull \hbox (badness 1831) in paragraph at lines 154--158
+\T1/phv/m/n/10.95 Leitfaden-[]Bankgespraech-[]-[]WIFI-[]-[]-[]Online-[]Dokument
+ . html$[][]) der von der [][][]Wirtschaftskammer
  []
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 160.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 160.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 160.
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--175
+\T1/phv/m/n/10.95 Gründung - [][]$https : / / www . wko . at / service / w / un
+ternehmensfuehrung-[]nanzierung-[]foerderung /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--175
+
+ []
+
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 175.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 82.
-[8
+(babel)             in language  on input line 175.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 175.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 175.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 175.
+[8]
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 179.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 179.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 179.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 179.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 179.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 179.
+ [9]
+chapter 4.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 181.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 181.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 181.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 185.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 185.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 185.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 190.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 190.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 190.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 195.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 195.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 195.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 198.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 198.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 198.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 198.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 198.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 198.
+[10
+
+]
+chapter 5.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 199.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 199.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 199.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 203.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 203.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 203.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 203.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 203.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 203.
+[11]
+chapter 6.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 205.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 205.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 205.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 234.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 234.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 234.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 234.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 234.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 234.
+[12
+
+] (Seminararbeit_Vogl.bbl
+chapter without number
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 2.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 2.
+
+Underfull \hbox (badness 1577) in paragraph at lines 97--101
+[]\T1/phv/m/n/10.95 derStandard.at Re-dak-ti-on, ``Öster-reichs grös-ster Spiel
+-eher-stel-ler Spro-
+ []
+
+)
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 239.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 239.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 239.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 239.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 239.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 239.
+ [13
 
 ]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 242.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 242.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 242.
 
-Setting numwidth of `part' to \z@ 
+Setting numwidth of `part' to 62.66344pt
 Setting indent of `part' to \z@
-Setting numwidth of `part' to \z@ 
+Setting numwidth of `part' to 62.66344pt
 Setting indent of `part' to \z@
-Setting numwidth of `chapter' to \z@ 
+Setting numwidth of `chapter' to 62.66344pt
 Setting indent of `chapter' to \z@
-Setting numwidth of `chapter' to \z@ 
+Setting numwidth of `chapter' to 62.66344pt
 Setting indent of `chapter' to \z@
-Setting numwidth of `section' to \z@ 
+Setting numwidth of `section' to 62.66344pt
 Setting indent of `section' to \z@
-Setting numwidth of `section' to \z@ 
+Setting numwidth of `section' to 62.66344pt
 Setting indent of `section' to \z@
-Setting numwidth of `subsection' to \z@ 
+Setting numwidth of `subsection' to 62.66344pt
 Setting indent of `subsection' to \z@
-Setting numwidth of `subsection' to \z@ 
+Setting numwidth of `subsection' to 62.66344pt
 Setting indent of `subsection' to \z@
-Setting numwidth of `subsubsection' to \z@ 
+Setting numwidth of `subsubsection' to 62.66344pt
 Setting indent of `subsubsection' to \z@
-Setting numwidth of `subsubsection' to \z@ 
+Setting numwidth of `subsubsection' to 62.66344pt
 Setting indent of `subsubsection' to \z@
-Setting numwidth of `paragraph' to \z@ 
+Setting numwidth of `paragraph' to 62.66344pt
 Setting indent of `paragraph' to \z@
-Setting numwidth of `paragraph' to \z@ 
+Setting numwidth of `paragraph' to 62.66344pt
 Setting indent of `paragraph' to \z@
-Setting numwidth of `subparagraph' to \z@ 
+Setting numwidth of `subparagraph' to 62.66344pt
 Setting indent of `subparagraph' to \z@
-Setting numwidth of `subparagraph' to \z@ 
+Setting numwidth of `subparagraph' to 62.66344pt
 Setting indent of `subparagraph' to \z@
 (Seminararbeit_Vogl.lof)
 \tf@lof=\write7
 \openout7 = `Seminararbeit_Vogl.lof'.
 
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 243.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 243.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 243.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 243.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 243.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 86.
- [9
+(babel)             in language  on input line 243.
+ [14
 
 ]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 247.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 247.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 89.
-
-Setting numwidth of `part' to \z@ 
-Setting indent of `part' to \z@
-Setting numwidth of `part' to \z@ 
-Setting indent of `part' to \z@
-Setting numwidth of `chapter' to \z@ 
-Setting indent of `chapter' to \z@
-Setting numwidth of `chapter' to \z@ 
-Setting indent of `chapter' to \z@
-Setting numwidth of `section' to \z@ 
-Setting indent of `section' to \z@
-Setting numwidth of `section' to \z@ 
-Setting indent of `section' to \z@
-Setting numwidth of `subsection' to \z@ 
-Setting indent of `subsection' to \z@
-Setting numwidth of `subsection' to \z@ 
-Setting indent of `subsection' to \z@
-Setting numwidth of `subsubsection' to \z@ 
-Setting indent of `subsubsection' to \z@
-Setting numwidth of `subsubsection' to \z@ 
-Setting indent of `subsubsection' to \z@
-Setting numwidth of `paragraph' to \z@ 
-Setting indent of `paragraph' to \z@
-Setting numwidth of `paragraph' to \z@ 
-Setting indent of `paragraph' to \z@
-Setting numwidth of `subparagraph' to \z@ 
-Setting indent of `subparagraph' to \z@
-Setting numwidth of `subparagraph' to \z@ 
-Setting indent of `subparagraph' to \z@
-(Seminararbeit_Vogl.lot)
-\tf@lot=\write8
-\openout8 = `Seminararbeit_Vogl.lot'.
-
+(babel)             in language  on input line 247.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 90.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 90.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 90.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 90.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 90.
+(babel)             in language  on input line 257.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 90.
- [10
+(babel)             in language  on input line 257.
+ [15
 
 ]
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 93.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 93.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 93.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 100.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 100.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 100.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 100.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 100.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 100.
- [11
-
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
  (Seminararbeit_Vogl.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
 Package rerunfilecheck Info: File `Seminararbeit_Vogl.out' has not changed.
-(rerunfilecheck)             Checksum: F760BB403B5693B03AAE1DA2EDA3FC60;1889.
+(rerunfilecheck)             Checksum: CEE5E240DB1B14CF3FB32C039990ACF8;1289.
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 30274 strings out of 493312
- 580022 string characters out of 3138889
- 739191 words of memory out of 3000000
- 33317 multiletter control sequences out of 15000+200000
- 559034 words of font info for 57 fonts, out of 3000000 for 9000
+ 30408 strings out of 493312
+ 581758 string characters out of 3138889
+ 742477 words of memory out of 3000000
+ 33416 multiletter control sequences out of 15000+200000
+ 561924 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,11n,80p,10489b,475s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/urw/helvetic/uhvr8a.pfb>
-Output written on Seminararbeit_Vogl.pdf (13 pages, 985567 bytes).
+Output written on Seminararbeit_Vogl.pdf (17 pages, 1277247 bytes).
 PDF statistics:
- 226 PDF objects out of 1000 (max. 8388607)
- 46 named destinations out of 1000 (max. 500000)
- 234 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 317 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
+ 188 words of extra memory for PDF output out of 10000 (max. 10000000)
 
