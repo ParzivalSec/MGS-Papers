@@ -12,6 +12,8 @@ Warning--entry type for "Duden_Eigenkapital" isn't style-file defined
 --line 35 of file Literatur.bib
 Warning--entry type for "WKO_Eigenkapital" isn't style-file defined
 --line 47 of file Literatur.bib
+Warning--entry type for "BusinessAngles_Def" isn't style-file defined
+--line 59 of file Literatur.bib
 Warning--entry type for "Crowdfunding_Def" isn't style-file defined
 --line 71 of file Literatur.bib
 Warning--entry type for "WKO_Fremdkapital" isn't style-file defined
@@ -28,7 +30,6 @@ Warning--entry type for "MIPUMI" isn't style-file defined
 --line 143 of file Literatur.bib
 Warning--entry type for "GK_Privs" isn't style-file defined
 --line 155 of file Literatur.bib
-Warning--I didn't find a database entry for "Business_Angles_Def"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.

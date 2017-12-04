@@ -1,0 +1,216 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.21)  1 DEC 2017 15:31
+entering extended mode
+**./lnbip.tex
+(lnbip.tex
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+(svmultln.cls
+Document Class: svmultln 2007/08/08 v3.27 
+Springer Verlag global LaTeX document class for lecture notes and contributed b
+ooks
+(svlnbip.clo
+File: svlnbip.clo 2007/07/07 v1.0 SVMult class option for the Springer LNBIP se
+ries
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count87
+\mult@box=\box26
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count88
+\c@collectmore=\count89
+\doublecol@number=\count90
+\multicoltolerance=\count91
+\multicolpretolerance=\count92
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen108
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count93
+\c@finalcolumnbadness=\count94
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count95
+)
+\betweenumberspace=\dimen112
+\headlineindent=\dimen113
+\minitoc=\write3
+\c@minitocdepth=\count96
+\c@chapter=\count97
+\svitemindent=\dimen114
+\verbatimindent=\dimen115
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 722.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 723.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 724.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 725.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 726.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 727.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 728.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 729.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 730.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 731.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 732.
+\tocchpnum=\dimen116
+\tocsecnum=\dimen117
+\tocsectotal=\dimen118
+\tocsubsecnum=\dimen119
+\tocsubsectotal=\dimen120
+\tocsubsubsecnum=\dimen121
+\tocsubsubsectotal=\dimen122
+\tocparanum=\dimen123
+\tocparatotal=\dimen124
+\tocsubparanum=\dimen125
+\foot@parindent=\dimen126
+\spthmsep=\dimen127
+\c@theorem=\count98
+\c@case=\count99
+\c@conjecture=\count100
+\c@corollary=\count101
+\c@definition=\count102
+\c@example=\count103
+\c@exercise=\count104
+\c@lemma=\count105
+\c@note=\count106
+\c@problem=\count107
+\c@property=\count108
+\c@proposition=\count109
+\c@question=\count110
+\c@solution=\count111
+\c@remark=\count112
+\instindent=\dimen128
+\figgap=\dimen129
+\figcapgap=\dimen130
+\tabcapgap=\dimen131
+\c@merk=\count113
+\c@@inst=\count114
+\c@@auth=\count115
+\c@auco=\count116
+\instindent=\dimen132
+\authrun=\box52
+\authorrunning=\toks14
+\tocauthor=\toks15
+\titrun=\box53
+\titlerunning=\toks16
+\toctitle=\toks17
+\c@contribution=\count117
+)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
++ svlnbip.clo 2007/07/07 v1.0 SVMono/SVMult class option + 
++ to establish the layout for Springer LNBIP volumes     + 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+\svitemindent=\dimen133
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+) (lnbip.aux)
+\openout1 = `lnbip.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 40.
+ [1
+
+
+
+
+
+{C:/Users/Parzival/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] 
+[4] [5] [6] (lnbip.aux) ) 
+Here is how much of TeX's memory you used:
+ 951 strings out of 493312
+ 10698 string characters out of 3138889
+ 80072 words of memory out of 3000000
+ 4552 multiletter control sequences out of 15000+200000
+ 9658 words of font info for 34 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 29i,8n,21p,244b,339s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+bx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss
+10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmtt9.pfb>
+Output written on lnbip.pdf (6 pages, 234906 bytes).
+PDF statistics:
+ 89 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
